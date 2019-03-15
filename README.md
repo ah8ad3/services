@@ -4,9 +4,9 @@
 
 ### Services
 - [Flask app](https://github.com/ah8ad3/services/flask)
+- [golang](https://github.com/ah8ad3/services/go)
 
 
 ### TODO Services
 - nodejs
-- golang
 - python
